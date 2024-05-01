@@ -30,7 +30,7 @@ public class HttpData  {
     URL url = null;
     ImageView imgv = null;
     public HttpData(String u,ImageView imgvv){
-        try {
+        try {//
             this.imgv = imgvv;
             url = new URL(u);
         } catch (MalformedURLException e) {url = null;}
