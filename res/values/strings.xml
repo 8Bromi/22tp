@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">22tp</string>
+    <string name="url">{\"debug\":{\"login\":\"test\",\"passwd\":\"test\",\"id\":\"xxxx\"},\"error\":\"Cannot find your authentication data in our Database. Please send a request to Admin to explain your issue.\"}</string>
+</resources>
